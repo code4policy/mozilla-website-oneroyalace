@@ -57,3 +57,4 @@ git pull origin main
 2. Follow this [CSS Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics). Make sure you make a handful of commits along the way inside the `learn-css` branch.
 3. Push the branch to GitHub and merge it into `main`
 4. Switch to the main branch on your computer locally and pull the `main` branch
+
